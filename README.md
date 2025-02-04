@@ -26,3 +26,17 @@ A full-stack e-commerce website for online clothing purchases, built with HTML, 
 ![Image](https://github.com/user-attachments/assets/ba7d2408-90c4-4ce7-be72-7c9c6de3c55c)
 
 ![Image](https://github.com/user-attachments/assets/c0d84ade-217a-4b8f-8d80-c42d9f14b7f1)
+
+# Admin Panel Demo
+
+![Image](https://github.com/user-attachments/assets/709ac740-8f4f-4d14-a6ac-2a8aed3c5f6d)
+
+![Image](https://github.com/user-attachments/assets/c2d58e58-bcca-446f-b782-63899161c6e1)
+
+![Image](https://github.com/user-attachments/assets/089f5eab-5bf1-4e44-b283-869c8192b7eb)
+
+![Image](https://github.com/user-attachments/assets/0fe3dc6f-bf90-4145-a2d9-75dd720933a0)
+
+![Image](https://github.com/user-attachments/assets/020ba004-3845-4b5b-942e-ea68ebbe4eda)
+
+![Image](https://github.com/user-attachments/assets/73e79a8c-b378-4b88-8eac-b6a396f0dc17)
